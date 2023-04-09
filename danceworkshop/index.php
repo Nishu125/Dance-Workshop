@@ -482,9 +482,9 @@
                       Vasi Games headquarter
                      </p>
                     <ul class="list-ico text-white">
-                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Bangalore</li>
-                      <li><span class="ion-ios-telephone"></span> +919608472701</li>
-                      <li><span class="ion-email"></span> vasigames19@gmail.com</li>
+                      <li><span class="ion-ios-location"></span>Whitefield Sunworth Bangalore</li>
+                      <li><span class="ion-ios-telephone"></span> +919616843251</li>
+                      <li><span class="ion-email"></span> danceworkshop@gmail.com</li>
                     </ul>
                   </div>
                   <div class="socials">
@@ -509,7 +509,7 @@
               <p class="copyright">&copy; Copyright <strong>Dance Workshop</strong>. All Rights Reserved</p>
               <div class="credits">
                 
-                Designed and Developed By <a href="https://www.sololearn.com/Profile/10902790#_=_">Rajesh Rathore </a>
+                Designed and Developed By <a href="https://www.sololearn.com/Profile/10902790#_=_">Nishanth S </a>
               </div>
             </div>
           </div>

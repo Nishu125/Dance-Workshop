@@ -503,9 +503,9 @@
                       Vasi Games headquarter
                      </p>
                     <ul class="list-ico text-white">
-                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Bangalore</li>
-                      <li><span class="ion-ios-telephone"></span> +919608472701</li>
-                      <li><span class="ion-email"></span> vasigames19@gmail.com</li>
+                      <li><span class="ion-ios-location"></span>Whitefield Sunworth Bangalore</li>
+                      <li><span class="ion-ios-telephone"></span> +919616843251</li>
+                      <li><span class="ion-email"></span>danceworkshop@gmail.com</li>
                     </ul>
                   </div>
                   <div class="socials">
@@ -536,7 +536,7 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
                 -->
-                Designed by <a href="#">Rajesh singh Rathod </a>
+                Designed by <a href="#">Nishanth S </a>
               </div>
             </div>
           </div>
